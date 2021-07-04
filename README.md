@@ -1,5 +1,5 @@
 # BalloonArcher Game
- Baloon shooting game in C# for OOP class project with 2 different archer options and 3 types of ballons with different color, speed and points. The game includes 3 levels. Player can chose the archer character to play and save the progress to continue with the same score and character later.
+ Balloon shooting game in C# for OOP class project with 2 different archer options and 3 types of ballons with different color, speed and points. The game includes 3 levels. Player can chose the archer character to play and save the progress to continue with the same score and character later.
  
  ## Level 1
  The first level will be completed by shooting 20 green balloons (5 points each). If the first balloon reaches the bottom of the balloon area, the game will end unsuccessfully.
