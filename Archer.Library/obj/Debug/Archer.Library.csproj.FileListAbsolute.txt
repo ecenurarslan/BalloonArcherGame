@@ -1,0 +1,6 @@
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Library\bin\Debug\Archer.Library.dll
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Library\bin\Debug\Archer.Library.pdb
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Library\obj\Debug\Archer.Library.csprojAssemblyReference.cache
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Library\obj\Debug\Archer.Library.csproj.CoreCompileInputs.cache
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Library\obj\Debug\Archer.Library.dll
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Library\obj\Debug\Archer.Library.pdb

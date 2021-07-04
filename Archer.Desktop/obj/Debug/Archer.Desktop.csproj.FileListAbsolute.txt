@@ -1,0 +1,14 @@
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\obj\Debug\Archer.Desktop.Properties.Resources.resources
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\obj\Debug\Archer.Desktop.csproj.GenerateResource.cache
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\obj\Debug\Archer.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\bin\Debug\ArcherGame.exe.config
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\bin\Debug\ArcherGame.exe
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\bin\Debug\ArcherGame.pdb
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\obj\Debug\ArcherGame.exe
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\obj\Debug\ArcherGame.pdb
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\obj\Debug\Archer.Desktop.csprojAssemblyReference.cache
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\obj\Debug\Archer.Desktop.Form1.resources
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\bin\Debug\Archer.Library.dll
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\bin\Debug\Archer.Library.pdb
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\obj\Debug\Archer.Desktop.csproj.CopyComplete
+C:\Users\ECE\Desktop\Archer\Archer\Archer.Desktop\obj\Debug\Archer.Desktop.Form2.resources
